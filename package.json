@@ -1,0 +1,24 @@
+{
+  "name": "client-work-1",
+  "version": "1.0.0",
+  "description": "A work for a client who is concentrating in explaining and advertising his products thru this web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass public/assets/css/scss/main.scss public/assets/css/main.css",
+    "build": "now --target production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eligv99/Client-work-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eligv99/Client-work-1/issues"
+  },
+  "homepage": "https://github.com/Eligv99/Client-work-1#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
