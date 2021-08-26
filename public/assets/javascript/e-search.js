@@ -70,9 +70,9 @@
 
               search(el);
 
-              setTimeout(function(){
-                location.reload()
-              }, 15000);
+              // setTimeout(function(){
+              //   location.reload()
+              // }, 15000);
 
             });
       });

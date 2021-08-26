@@ -1,12 +1,12 @@
 {
-  "name": "client-work-1",
+  "name": "shampoo-ad",
   "version": "1.0.0",
   "description": "A work for a client who is concentrating in explaining and advertising his products thru this web page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scss": "sass public/assets/css/scss/main.scss public/assets/css/main.css",
-    "build": "now --target production"
+    "build": "now --prod"
   },
   "repository": {
     "type": "git",
